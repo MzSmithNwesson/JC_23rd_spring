@@ -10,12 +10,16 @@
 
 
 /* THIS IS START OF INDEX PAGE  */
-
+.body-i {
+    background-color: purple;
+}
 /* THIS IS THE END OF INDEX PAGE */
 
 
 /* THIS IS START OF ABOUT PAGE  */
-
+.body-a {
+    background-color: red;
+}
 /* THIS IS END OF ABOUT PAGE  */
 
 
