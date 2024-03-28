@@ -10,11 +10,21 @@
 
 
 /* THIS IS START OF INDEX PAGE  */
+.body-i {
+background-image: url(/images/jc_3.gif);
 
+}
+
+.hero-sec {
+    color:red;
+
+}
 /* THIS IS THE END OF INDEX PAGE */
 
 
 /* THIS IS START OF ABOUT PAGE  */
+.body-a {
+    background-color: red;
 
 /* THIS IS END OF ABOUT PAGE  */
 
