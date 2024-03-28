@@ -32,17 +32,24 @@ background-image: url(/images/jc_3.gif);
 
 
 /* THIS IS START OF PROJECT PAGE  */
+.body-p {
 
+}
 /* THIS IS END OF PROJECT PAGE  */
 
 
 /* THIS IS START OF SIGN IN PAGE  */
-
+.body-si {
+    
+}
 /* THIS IS END OF SIGN IN PAGE  */
 
 
 /* THIS IS START OF SIGN UP PAGE  */
+.body-su {
+    background-image: url(/images/freddy_wp1.png);
 
+}
 /* THIS IS END OF SIGN UP PAGE  */
 
 
