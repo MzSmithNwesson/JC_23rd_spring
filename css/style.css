@@ -11,40 +11,60 @@ nav {
 
 /* THIS IS START OF INDEX PAGE  */
 .body-i {
-  background-image: url(/images/jc_3.gif);
+  background-image: url(/images/Haunted_House5.gif);
+  text-align: center;
 }
 
 .hero-sec {
-  color: red;
+  color: white;
 }
 /* THIS IS THE END OF INDEX PAGE */
 
 /* THIS IS START OF ABOUT PAGE  */
-.body-a {
-  background-color: red;
+.creeper {
+  color: white;
+  background-image: url(/images/jc_stats_4.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 440px;
+  width: 1000px;
+}
+.girl {
+  color: white;
+  background-image: url(/images/jc_stats_1.png);
+  background-size: contain;
+  height: 450px;
+  width: 1000px;
+}
+.guy {
+  color: white;
+  background-image: url(/images/jc_statt_2.png);
+  background-size: contain;
+  background-position: center;
+  height: 450px;
+  width: 1000px;
 }
 /* THIS IS END OF ABOUT PAGE  */
 
 /* THIS IS START OF PROJECT PAGE  */
 .body-p {
-
 }
 /* THIS IS END OF PROJECT PAGE  */
 
 /* THIS IS START OF SIGN IN PAGE  */
 .body-si {
-    text-align: center;
+  background-image: url(/images/jc_5.png);
+  text-align: center;
 }
 
 .form-signin {
-    display: inline-block;
+  display: inline-block;
 }
 /* THIS IS END OF SIGN IN PAGE  */
 
 /* THIS IS START OF SIGN UP PAGE  */
 .body-su {
-    background-image: url(/images/freddy_wp1.png);
-
+  background-image: url();
 }
 /* THIS IS END OF SIGN UP PAGE  */
 
