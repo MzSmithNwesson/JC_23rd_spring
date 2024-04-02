@@ -15,6 +15,7 @@ nav {
 
 ul > li {
   display: inline;
+  margin: 10px;
 }
 /* THIS IS END OF NAV BAR */
 
