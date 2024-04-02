@@ -11,6 +11,7 @@
 
 /* THIS IS START OF NAV BAR  */
 nav {
+  text-align: center;
 }
 
 ul > li {
@@ -39,21 +40,8 @@ ul > li {
   height: 440px;
   width: 1000px;
 }
-.girl {
-  color: white;
-  background-image: url(/images/jc_stats_1.png);
-  background-size: contain;
-  height: 450px;
-  width: 1000px;
-}
-.guy {
-  color: white;
-  background-image: url(/images/jc_statt_2.png);
-  background-size: contain;
-  background-position: center;
-  height: 450px;
-  width: 1000px;
-}
+
+
 /* THIS IS END OF ABOUT PAGE  */
 
 /* THIS IS START OF PROJECT PAGE  */
