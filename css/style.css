@@ -12,11 +12,14 @@
 /* THIS IS START OF NAV BAR  */
 nav {
   text-align: center;
+  border: 2px solid black;
+  padding: 35px;
+  background-color: black;
 }
 
 ul > li {
   display: inline;
-  margin: 10px;
+  margin: 50px;
 }
 /* THIS IS END OF NAV BAR */
 
@@ -25,6 +28,7 @@ ul > li {
   background-image: url(/images/Haunted_House5.gif);
   text-align: center;
 }
+
 
 .hero-sec {
   color: white;
