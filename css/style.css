@@ -12,6 +12,10 @@
 /* THIS IS START OF NAV BAR  */
 nav {
 }
+
+ul > li {
+  display: inline;
+}
 /* THIS IS END OF NAV BAR */
 
 /* THIS IS START OF INDEX PAGE  */
