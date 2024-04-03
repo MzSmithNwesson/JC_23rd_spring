@@ -20,6 +20,7 @@ nav {
   border: 2px solid black;
   padding: 35px;
   background-color: black;
+
 }
 
 ul > li {
@@ -47,10 +48,18 @@ ul > li {
   background-image: url(../images/jc_stats_4.png);
   background-repeat: no-repeat;
   background-size: contain;
-  height: 440px;
-  width: 1000px;
+  height: 450px;
+max-width: 1000px;
 }
 
+.about-sec {
+  width: 300px;
+
+  text-align: center;
+  border: solid black;
+  margin: 100px;
+  border-radius: 50px;
+}
 
 /* THIS IS END OF ABOUT PAGE  */
 
