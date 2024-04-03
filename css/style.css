@@ -44,13 +44,14 @@ ul {
 
 /* THIS IS START OF INDEX PAGE  */
 .body-i {
-  background-image: url(../images/Haunted_House5.gif);
   text-align: center;
+  
 }
 
 .hero-sec {
   color: red;
   font-family: bloodyFont;
+
 }
 
 .home-page {
@@ -59,6 +60,28 @@ ul {
   margin: 50px;
   padding: 50px;
   font-size: 25px;
+}
+
+#banner {
+  background-image: url(../images/Haunted_House5.gif);
+
+}
+.index {
+ padding: 100px;
+}
+#projects {
+  background-color: black;
+  color: whitesmoke;
+  height: 400px;
+}
+
+#testi {
+  background-color: azure;
+  height: 400px;
+}
+#services {
+  background-color: purple;
+  height: 400px;
 }
 /* THIS IS THE END OF INDEX PAGE */
 
