@@ -10,22 +10,35 @@
 }
 
 @font-face {
-    font-family: bloodyFont;
-    src: url("../fonts/Fiendish.ttf");
-  }
+  font-family: bloodyFont;
+  src: url("../fonts/Fiendish.ttf");
+}
 
 /* THIS IS START OF NAV BAR  */
 nav {
   text-align: center;
+  text-size-adjust: larger;
   border: 2px solid black;
   padding: 35px;
-  background-color: black;
-
+  background-color: red;
+  text-decoration: none;
+}
+a {
+  color: black;
+  text-decoration: none;
 }
 
 ul > li {
   display: inline;
   margin: 50px;
+  color: black;
+}
+ul > li :hover {
+  color: white;
+  text-decoration: underline;
+}
+ul {
+  text-decoration: none;
 }
 /* THIS IS END OF NAV BAR */
 
@@ -35,26 +48,35 @@ ul > li {
   text-align: center;
 }
 
-
 .hero-sec {
   color: red;
   font-family: bloodyFont;
+}
+
+.home-page {
+  color: white;
+  text-align: center;
+  margin: 50px;
+  padding: 50px;
+  font-size: 25px;
 }
 /* THIS IS THE END OF INDEX PAGE */
 
 /* THIS IS START OF ABOUT PAGE  */
 .creeper {
   color: white;
-  background-image: url(../images/jc_stats_4.png);
+  background-image: url(../images/BEATNGU-001.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 1015px;
+  background-position: center;
   height: 450px;
-max-width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .about-sec {
   width: 300px;
-
   text-align: center;
   border: solid black;
   margin: 100px;
