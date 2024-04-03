@@ -9,6 +9,11 @@
   src: url("../fonts/OpenSans-Regular.ttf");
 }
 
+@font-face {
+    font-family: bloodyFont;
+    src: url("../fonts/Fiendish.ttf");
+  }
+
 /* THIS IS START OF NAV BAR  */
 nav {
   text-align: center;
@@ -31,7 +36,8 @@ ul > li {
 
 
 .hero-sec {
-  color: white;
+  color: red;
+  font-family: bloodyFont;
 }
 /* THIS IS THE END OF INDEX PAGE */
 
