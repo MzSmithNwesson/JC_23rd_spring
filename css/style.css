@@ -48,7 +48,7 @@ ul {
 }
 button {
   padding: 10px;
-  border: 2px solid black
+  border: 2px solid black;
   font-weight: bolder;
   background-color: red;
 }
@@ -150,5 +150,16 @@ background-color: white;
 /* THIS IS END OF SIGN UP PAGE  */
 
 /* THIS IS START OF FOOTER */
-
+footer {
+  background-color: green;
+width: 100%;
+height: 125px;
+border: 5px groove;
+}
+.footimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
 /* THIS IS END OF FOOTER */
