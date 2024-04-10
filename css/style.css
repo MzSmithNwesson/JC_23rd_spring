@@ -138,6 +138,19 @@ background-color: white;
   display: inline-block;
   background-color: grey;
   font-family: formFont;
+  margin: 200px;
+  padding: 60px;
+  border-radius: 50px;
+  border: 10px groove white;
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, white 35%, grey 100%);
+}
+
+.signin-title {
+  margin: 30px;
+}
+
+.submit-button {
+  margin: 30px;
 }
 /* THIS IS END OF SIGN IN PAGE  */
 
