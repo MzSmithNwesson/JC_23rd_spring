@@ -113,11 +113,33 @@ background-color: white;
 #testi {
   background-color: azure;
   height: 400px;
+  padding: 20px;
 }
 #services {
   background-color: purple;
   height: 400px;
 }
+
+.testipic {
+width: 100px;
+}
+
+.testi-1 {
+  border: 2px groove black;
+  border-radius: 20px;
+  margin: 30px;
+ padding: 20px;
+ float: right;
+}
+
+.testi-2 {
+  border: 2px groove black;
+  border-radius: 20px;
+  margin: 30px;
+  padding: 20px;
+  float: left;
+}
+
 /* THIS IS THE END OF INDEX PAGE */
 
 /* THIS IS START OF ABOUT PAGE  */
