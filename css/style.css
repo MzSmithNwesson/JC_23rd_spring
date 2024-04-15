@@ -109,6 +109,10 @@ background-color: white;
   color: whitesmoke;
   height: 400px;
 }
+.pjpic {
+  width: 500px;
+  float: left;
+}
 
 #testi {
   background-color: azure;
@@ -140,6 +144,12 @@ width: 100px;
   float: left;
 }
 
+.wpic {
+  width: 275px;
+  float: left;
+  justify-content: space-between;
+}
+ 
 /* THIS IS THE END OF INDEX PAGE */
 
 /* THIS IS START OF ABOUT PAGE  */
