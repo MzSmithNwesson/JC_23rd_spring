@@ -279,9 +279,10 @@ border: 5px groove;
 }
 /* THIS IS END OF FOOTER */
 
-@media screen and (max-width: 757px) {
-  ul {
-    display: flex
-  }
+@media screen and (max-width: 757px)  {
+ header {
+  padding: 1.3rem 5%;
+ }
 
 }
+
