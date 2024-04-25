@@ -249,8 +249,8 @@ button:hover {
 
 .form-signup {
   display: inline-block;
-  background-color: grey;
-  font-family: formFont;
+  background-color: red;
+  font-family: form-font;
   margin: 100px;
   margin-top: 200px;
   padding: 60px;
@@ -258,9 +258,9 @@ button:hover {
   border: 10px groove white;
   background: linear-gradient(
     180deg,
-    rgba(2, 0, 36, 1) 0%,
+  grey,
     white 35%,
-    grey 100%
+    blue
   );
 }
 
